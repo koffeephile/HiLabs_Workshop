@@ -1,0 +1,32 @@
+{
+  "file_name": "test_data\\612M65828_N991-802560_20241218\\612M65828_N991-802560_20241218.json",
+  "entity_type_error_rate": {
+    "PROCEDURE": 0.0,
+    "TEST": 0.0,
+    "PROBLEM": 0.0,
+    "MEDICINE": 0.0,
+    "VITAL_NAME": 0.0,
+    "MEDICAL_DEVICE": 0.0,
+    "SDOH": 0.0,
+    "IMMUNIZATION": 0.0,
+    "SOCIAL_HISTORY": 0.0,
+    "MENTAL_STATUS": 0.0
+  },
+  "assertion_error_rate": {
+    "UNCERTAIN": 1.0,
+    "POSITIVE": 0.71,
+    "NEGATIVE": 0.019230769230769232
+  },
+  "temporality_error_rate": {
+    "CURRENT": 0.3058823529411765,
+    "UPCOMING": 0.7954545454545454,
+    "CLINICAL_HISTORY": 0.368,
+    "UNCERTAIN": 1.0
+  },
+  "subject_error_rate": {
+    "PATIENT": 0.0056179775280898875,
+    "FAMILY_MEMBER": 0.05555555555555555
+  },
+  "event_date_accuracy": 0.02631578947368421,
+  "attribute_completeness": 0.23744911804613297
+}
